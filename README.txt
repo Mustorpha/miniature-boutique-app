@@ -6,7 +6,7 @@ A Projects on object classes
 from 'Begin to code with python'
 Guide: Rob Miles
 Developer & Administrator : Jamiu Mustorpha|jamiumustorpha655@gmail.com
-Storage medium: Python Pickle
+Storage Algorithm: Python Pickle
 
 The code is sedimented into three major module
 
